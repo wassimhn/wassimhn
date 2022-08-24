@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my future plan 
+- 🔭 I’m currently working on my future plans 
 - 🌱 I’m currently learning front end web development
 
 
