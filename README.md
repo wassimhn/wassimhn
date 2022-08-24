@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on my future plan 
+- 🌱 I’m currently learning front end web development
+
+
 <!--
 **wassimhn/wassimhn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
